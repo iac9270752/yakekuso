@@ -1,0 +1,32 @@
+.design16 {
+ width: 100%;
+ text-align: center;
+ border-collapse: collapse;
+ border-spacing: 0;
+}
+.design16 th {
+ padding: 10px;
+ border: solid 1px #ffffff;
+}
+.design16 th:nth-child(1) {
+ background: #fd9644;
+}
+.design16 th:nth-child(2) {
+ background: #fed330;
+}
+.design16 th:nth-child(3) {
+ background: #26de81;
+}
+.design16 td {
+ padding: 10px;
+ border: solid 1px #ffffff;
+}
+.design16 td:nth-child(1) {
+ background: #fec598;
+}
+.design16 td:nth-child(2) {
+ background: #fee585;
+}
+.design16 td:nth-child(3) {
+ background: #70e9ac;
+}
